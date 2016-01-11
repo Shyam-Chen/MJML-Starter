@@ -18,6 +18,8 @@
 * DOM
 * APIs
 
+***
+
 ## ECMAScript
 [Speaking JavaScript](http://speakingjs.com/es5/)
 
