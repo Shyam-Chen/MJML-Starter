@@ -1,8 +1,7 @@
 # JavaScript 隨手筆記
 
 ## Speaking JavaScript
-> http://speakingjs.com/es5/
-
+[免費線上閱讀 (英文)](http://speakingjs.com/es5/)
 [繁體中文書](http://www.tenlong.com.tw/items/9789863478584)
 
 ## BOM
