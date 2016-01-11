@@ -16,7 +16,7 @@
 * ECMAscript
 * BOM
 * DOM
-* API
+* APIs
 
 ## ECMAScript
 [Speaking JavaScript](http://speakingjs.com/es5/)
@@ -41,7 +41,7 @@
 
 ***
 
-## API
+## APIs
 * Forms
 * Video and Audio
 * Canvas
