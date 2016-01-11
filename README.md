@@ -26,6 +26,10 @@
 ***
 
 ## API
+* Forms
+* Video and Andio
+* Canvas
+* Web Storage
 
 ### Forms
 
