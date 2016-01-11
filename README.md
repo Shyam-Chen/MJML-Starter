@@ -21,6 +21,24 @@ http://speakingjs.com/es5/
 
 ### Web Storage
 
+### File
+
+### Drag and Drop
+
+### IndexedDB
+
+### Application Cache
+
+### XMLHttpRequest
+
+### Server-sent Events
+
+### WebSocket
+
+### Geolocation
+
+### Web Workers
+
 ### requestAnimationFrame
 是瀏覽器用於定時循環操作的一個介面，主要用途是按造影格對網頁進行重新繪製。
 
