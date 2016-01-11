@@ -1,5 +1,6 @@
 # Web 隨手筆記
 > [HTML / CSS / JavaScript](https://platform.html5.org/)
+> [Developer Handbook](http://www.frontendhandbook.com/)
 
 ## Speaking JavaScript
 [免費線上閱讀 (英文)](http://speakingjs.com/es5/)
