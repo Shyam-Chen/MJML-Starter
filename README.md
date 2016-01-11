@@ -1,6 +1,5 @@
 # Web 隨手筆記
-> [HTML / CSS / JavaScript](https://platform.html5.org/)
-
+> [HTML / CSS / JavaScript](https://platform.html5.org/)<br>
 > [Developer Handbook](http://www.frontendhandbook.com/)
 
 ***
