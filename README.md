@@ -10,9 +10,7 @@
 # JavaScript
 
 ## ECMAScript
-Speaking JavaScript
-
-[免費線上閱讀 (英文)](http://speakingjs.com/es5/)
+[Speaking JavaScript](http://speakingjs.com/es5/)
 
 ***
 
