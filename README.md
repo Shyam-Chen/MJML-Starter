@@ -19,6 +19,12 @@ http://speakingjs.com/es5/
 
 ## API
 
+### Forms
+
+### Video and Andio
+
+### Canvas
+
 ### Web Storage
 
 ### File
