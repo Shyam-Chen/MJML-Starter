@@ -1,6 +1,7 @@
 # JavaScript 隨手筆記
 
-## Core
+## Speaking JavaScript
+http://speakingjs.com/es5/
 
 ## BOM
 
