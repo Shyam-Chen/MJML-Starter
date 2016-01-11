@@ -4,6 +4,11 @@
 http://speakingjs.com/es5/
 
 ## BOM
+* Window
+* Navigator
+* Screen
+* History
+* Location
 
 ## DOM
 
