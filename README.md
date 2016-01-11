@@ -5,6 +5,8 @@
 
 [繁體中文圖書](http://www.tenlong.com.tw/items/9789863478584)
 
+***
+
 ## BOM
 * Window
 * Navigator
@@ -12,12 +14,16 @@
 * History
 * Location
 
+***
+
 ## DOM
 * DOM Document
 * DOM Elements
 * DOM Attributes
 * DOM Events
 * DOM Style
+
+***
 
 ## API
 
