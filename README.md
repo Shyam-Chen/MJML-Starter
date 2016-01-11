@@ -14,6 +14,10 @@
 ***
 
 # JavaScript
+* ECMAscript
+* BOM
+* DOM
+* API
 
 ## ECMAScript
 [Speaking JavaScript](http://speakingjs.com/es5/)
