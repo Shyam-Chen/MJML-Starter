@@ -27,13 +27,13 @@
 
 ## API
 * Forms
-* Video and Andio
+* Video and Audio
 * Canvas
 * Web Storage
 
 ### Forms
 
-### Video and Andio
+### Video and Audio
 
 ### Canvas
 
