@@ -5,12 +5,12 @@
 ***
 
 ## HTML
-[HTML Reference](https://www.w3.org/TR/html51/index.html)
+> [HTML Reference](https://www.w3.org/TR/html51/index.html)
 
 ***
 
 ## CSS
-[CSS Reference](http://tympanus.net/codrops/css_reference/)
+> [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 ***
 
@@ -23,7 +23,7 @@
 ***
 
 ### ECMAScript
-[Speaking JavaScript](http://speakingjs.com/es5/)
+> [Speaking JavaScript](http://speakingjs.com/es5/)
 
 ***
 
