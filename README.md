@@ -4,15 +4,15 @@
 
 ***
 
-# HTML
+## HTML
 
 ***
 
-# CSS
+## CSS
 
 ***
 
-# JavaScript
+## JavaScript
 * ECMAscript
 * BOM
 * DOM
@@ -20,12 +20,12 @@
 
 ***
 
-## ECMAScript
+### ECMAScript
 [Speaking JavaScript](http://speakingjs.com/es5/)
 
 ***
 
-## BOM
+### BOM
 * Window
 * Navigator
 * Screen
@@ -34,7 +34,7 @@
 
 ***
 
-## DOM
+### DOM
 * DOM Document
 * DOM Elements
 * DOM Attributes
@@ -43,55 +43,55 @@
 
 ***
 
-## APIs
+### APIs
 * Forms
 * Video and Audio
 * Canvas
 * Web Storage
 
-### Forms
+#### Forms
 
-### Video and Audio
+#### Video and Audio
 
-### Canvas
+#### Canvas
 
-### Web Storage
+#### Web Storage
 
-### File
+#### File
 
-### Drag and Drop
+#### Drag and Drop
 
-### IndexedDB
+#### IndexedDB
 
-### Application Cache
+#### Application Cache
 
-### XMLHttpRequest
+#### XMLHttpRequest
 
-### Server-sent Events
+#### Server-sent Events
 
-### Web Messaging
+#### Web Messaging
 
-### WebSocket
+#### WebSocket
 
-### WebRTC
+#### WebRTC
 
-### Geolocation
+#### Geolocation
 
-### Web Workers
+#### Web Workers
 
-### History
+#### History
 
-### Web Notifications
+#### Web Notifications
 
-### Page Visiblity
+#### Page Visiblity
 
-### FullScreen
+#### FullScreen
 
-### Mutation Observer
+#### Mutation Observer
 
-### requestAnimationFrame
+#### requestAnimationFrame
 是瀏覽器用於定時循環操作的一個介面，主要用途是按造影格對網頁進行重新繪製。
 
 [Code](http://codepen.io/Shyam-Chen/pen/KVqMjj)
 
-### Beacon
+#### Beacon
