@@ -5,10 +5,12 @@
 ***
 
 ## HTML
+[HTML Reference](https://www.w3.org/TR/html51/index.html)
 
 ***
 
 ## CSS
+[CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 ***
 
