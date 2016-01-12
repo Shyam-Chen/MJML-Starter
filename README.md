@@ -15,7 +15,7 @@
 ***
 
 ## JavaScript
-* ECMAscript
+* [ECMAscript](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/README.md#ecmascript)
 * BOM
 * DOM
 * API
