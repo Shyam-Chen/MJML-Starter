@@ -16,7 +16,7 @@
 * ECMAscript
 * BOM
 * DOM
-* APIs
+* API
 
 ***
 
@@ -43,11 +43,29 @@
 
 ***
 
-### APIs
+### API
 * Forms
 * Video and Audio
 * Canvas
 * Web Storage
+* File
+* Drag and Drop
+* IndexedDB
+* Application Cache
+* XMLHttpRequest
+* Server-sent Events
+* Web Messaging
+* WebSocket
+* WebRTC
+* Geolocation
+* Web Workers
+* History
+* Web Notifications
+* Page Visiblity
+* FullScreen
+* Mutation Observer
+* requestAnimationFrame
+* Beacon
 
 #### Forms
 
