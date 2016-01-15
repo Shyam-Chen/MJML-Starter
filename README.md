@@ -1,6 +1,5 @@
 # Web 隨手筆記
-> [Web Technologies](https://platform.html5.org/)<br>
-> [Web Handbook](http://www.frontendhandbook.com/)
+> [Developer Handbook](http://www.frontendhandbook.com/)
 
 ***
 
