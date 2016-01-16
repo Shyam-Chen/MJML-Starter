@@ -1,19 +1,19 @@
-# Web 隨手筆記
+### Web 隨手筆記
 > [Developer Handbook](http://www.frontendhandbook.com/)
 
 ***
 
-## HTML
+#### HTML
 > [HTML Reference](https://www.w3.org/TR/html51/index.html)
 
 ***
 
-## CSS
+#### CSS
 > [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 ***
 
-## JavaScript
+#### JavaScript
 > [Speaking JavaScript](http://speakingjs.com/es5/)
 
 * [BOM](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/BOM.md)
