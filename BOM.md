@@ -14,6 +14,12 @@
 
 瀏覽器版本資訊: `navigator.appVersion`
 
+瀏覽器是否啟用Cookie: `navigator.cookieEnabled`
+
+`navigator.geolocation`
+
+`navigator.language`
+
 #### Screen
 
 #### History
