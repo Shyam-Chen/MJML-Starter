@@ -12,6 +12,8 @@
 
 瀏覽器名稱: `navigator.appName`
 
+瀏覽器版本資訊: `navigator.appVersion`
+
 #### Screen
 
 #### History
