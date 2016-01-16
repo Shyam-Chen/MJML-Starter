@@ -8,6 +8,9 @@
 #### Window
 
 #### Navigator
+瀏覽器代號: `navigator.appCodeName`
+
+瀏覽器名稱: `navigator.appName`
 
 #### Screen
 
