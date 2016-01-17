@@ -4,6 +4,7 @@
 * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 * [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+* [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 * [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 * [Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
 * [Beacon](https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API)
