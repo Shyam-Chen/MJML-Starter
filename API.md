@@ -7,4 +7,5 @@
 * [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 * [Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
 * [Beacon](https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API)
+* [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
 * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
