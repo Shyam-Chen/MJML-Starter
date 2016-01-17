@@ -10,8 +10,7 @@
 > [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 #### JavaScript
-> [Speaking JavaScript](http://speakingjs.com/es5/)<br>
-> [Exploring ES6](http://exploringjs.com/es6/)
+> [Speaking JavaScript](http://speakingjs.com/es5/)
 
 * [BOM](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/BOM.md)
 * [DOM](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/DOM.md)
