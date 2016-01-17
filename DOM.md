@@ -1,20 +1,6 @@
 ### DOM
-* DOM Document
-* DOM Elements
-* DOM Attributes
-* DOM Events
+* [Document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+* [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
+* [Attr](https://developer.mozilla.org/en-US/docs/Web/API/Attr)
+* [Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 * DOM Style
-
-#### DOM Document
-
-#### DOM Elements
-
-#### DOM Attributes
-
-#### DOM Events
-點擊事件 onclick: 
-* `<element onclick=" some script ">`
-* `object.onclick = function() { some script };`
-* `object.addEventListener("click", some script);`
-
-#### DOM Style
