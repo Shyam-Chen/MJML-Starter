@@ -12,8 +12,9 @@
 #### DOM Attributes
 
 #### DOM Events
-onclick: `<element onclick=" some script ">`
-`object.onclick = function() { some script };`
-`object.addEventListener("click", some script);`
+點擊事件 onclick: 
+* `<element onclick=" some script ">`
+* `object.onclick = function() { some script };`
+* `object.addEventListener("click", some script);`
 
 #### DOM Style
