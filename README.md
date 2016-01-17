@@ -11,6 +11,7 @@
 
 #### JavaScript
 > [Speaking JavaScript](http://speakingjs.com/es5/)
+> [Exploring ES6](http://exploringjs.com/es6/)
 
 * [BOM](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/BOM.md)
 * [DOM](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/DOM.md)
