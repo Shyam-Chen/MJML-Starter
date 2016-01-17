@@ -28,7 +28,7 @@
 
 #### Canvas
 
-#### Web Storage
+#### [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 
 #### File
 
