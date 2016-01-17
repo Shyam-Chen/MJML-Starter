@@ -16,6 +16,10 @@
 * [DOM](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/DOM.md)
 * [API](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/API.md)
 
+#### Angular, Material and Firebase
+#### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
+#### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Source Maps and Batarang
+
 ***
 
 ### Next Generation
