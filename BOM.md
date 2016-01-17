@@ -6,6 +6,7 @@
 * Location
 
 #### Window
+`window.closed`
 
 #### Navigator
 瀏覽器代號: `navigator.appCodeName`
