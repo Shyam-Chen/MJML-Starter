@@ -49,3 +49,5 @@ http://plnkr.co/edit/RhJTbxVXJAik9OBnfCJ0?p=preview
 [Code](http://codepen.io/Shyam-Chen/pen/KVqMjj)
 
 #### Beacon
+
+#### [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
