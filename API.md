@@ -12,3 +12,4 @@
 * [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 * [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 * [WebVR](https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API)
+* [Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
