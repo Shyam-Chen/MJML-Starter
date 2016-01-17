@@ -15,7 +15,7 @@
 * Geolocation
 * Web Workers
 * History
-* Web Notifications
+* Notifications
 * Page Visiblity
 * FullScreen
 * Mutation Observer
@@ -56,7 +56,7 @@ http://plnkr.co/edit/RhJTbxVXJAik9OBnfCJ0?p=preview
 
 #### History
 
-#### Web Notifications
+#### [Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
 
 #### Page Visiblity
 
