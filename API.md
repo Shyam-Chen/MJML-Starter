@@ -50,7 +50,7 @@
 
 #### Geolocation
 
-#### [Web Workers](https://developer.mozilla.org/zh-TW/docs/Web/API/Worker)
+#### [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 http://plnkr.co/edit/RhJTbxVXJAik9OBnfCJ0?p=preview
 
 
