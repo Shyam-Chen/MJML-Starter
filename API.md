@@ -14,3 +14,7 @@
 * [WebVR](https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API)
 * [Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 * [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
+
+***
+
+[File](https://developer.mozilla.org/en-US/docs/Web/API/File)
