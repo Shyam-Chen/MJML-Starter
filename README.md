@@ -11,7 +11,7 @@
 
 #### JavaScript
 > * [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) / [Speaking JavaScript (ES5)](http://speakingjs.com/es5/) / [Exploring JavaScript (ES6)](http://exploringjs.com/es6/)
-> * [Web API Reference](https://developer.mozilla.org/en-US/docs/Web/API) / [Specification List](https://developer.mozilla.org/en-US/docs/Web/Specification_list) / [Web API](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API.md)
+> * [Web API Reference](https://developer.mozilla.org/en-US/docs/Web/API) / [Specification List](https://developer.mozilla.org/en-US/docs/Web/Specification_list) / [Web API List](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-List.md)
 
 ##### Angular, Material and Firebase
 ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
