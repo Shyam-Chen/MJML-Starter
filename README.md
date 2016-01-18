@@ -19,7 +19,7 @@
 ***
 
 ### Next Generation
-* ECMAScript2015
-* Angular2
+* ECMAScript 6
+* Angular 2
 * TypeScript
 * Webpack
