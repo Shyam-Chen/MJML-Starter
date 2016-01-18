@@ -10,7 +10,7 @@
 > [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 #### JavaScript
-> * [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) / [Speaking JavaScript](http://speakingjs.com/es5/)
+> * [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) / [Speaking JavaScript](http://speakingjs.com/es5/) / [Exploring ES6](http://exploringjs.com/es6/)
 > * [Web API Reference](https://developer.mozilla.org/en-US/docs/Web/API)
 
 ##### Angular, Material and Firebase
