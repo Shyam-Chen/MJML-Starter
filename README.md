@@ -14,7 +14,7 @@
 > * [Speaking JavaScript](http://speakingjs.com/es5/)
 > * [Web API Reference](https://developer.mozilla.org/en-US/docs/Web/API) / [Web API List](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-List.md)
 
-##### Angular
+##### Angular :100:
 * Material
 * Firebase
 
