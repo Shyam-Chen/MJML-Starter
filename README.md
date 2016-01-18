@@ -16,6 +16,7 @@
 ##### Angular
 * Material
 * Firebase
+
 > module.component: [Exploring the Angular 1.5 .component() method](https://toddmotto.com/exploring-the-angular-1-5-component-method/)<br>
 > ng-animate-swap: [Demo](http://plnkr.co/edit/xAuvOc7lkNvs0TsUiysj?p=preview)<br>
 > Multi-slot transclusion: [Demo](http://plnkr.co/edit/73qiILR5JRrg0NBlqw10?p=preview)
