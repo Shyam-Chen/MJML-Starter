@@ -10,7 +10,7 @@
 > [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 #### JavaScript
-> * [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) / [Speaking JavaScript (ES5)](http://speakingjs.com/es5/) / [Exploring JavaScript (ES6)](http://exploringjs.com/es6/)
+> * [Speaking JavaScript](http://speakingjs.com/es5/)
 > * [Web API Reference](https://developer.mozilla.org/en-US/docs/Web/API) / [Specification List](https://developer.mozilla.org/en-US/docs/Web/Specification_list) / [Web API List](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-List.md)
 
 ##### Angular
@@ -26,6 +26,7 @@
 ***
 
 ### Next Generation
+* [Exploring ES6](http://exploringjs.com/es6/)
 * Angular 2
 * TypeScript
 * Webpack
