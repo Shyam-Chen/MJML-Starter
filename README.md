@@ -1,5 +1,6 @@
 ### Web 隨手筆記
-> [Developer Handbook](http://www.frontendhandbook.com/)
+> [Developer Handbook](http://www.frontendhandbook.com/)<br>
+> [Specification List](https://developer.mozilla.org/en-US/docs/Web/Specification_list)
 
 ***
 
@@ -11,7 +12,7 @@
 
 #### JavaScript
 > * [Speaking JavaScript](http://speakingjs.com/es5/)
-> * [Web API Reference](https://developer.mozilla.org/en-US/docs/Web/API) / [Specification List](https://developer.mozilla.org/en-US/docs/Web/Specification_list) / [Web API List](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-List.md)
+> * [Web API Reference](https://developer.mozilla.org/en-US/docs/Web/API) / [Web API List](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-List.md)
 
 ##### Angular
 * Material
