@@ -16,6 +16,7 @@
 * [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
 * [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 * [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+* [Channel Messaging](https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API)
 
 ***
 
