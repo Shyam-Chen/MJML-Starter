@@ -14,7 +14,9 @@
 > * [Web API Reference](https://developer.mozilla.org/en-US/docs/Web/API) / [Specification List](https://developer.mozilla.org/en-US/docs/Web/Specification_list) / [Web API List](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-List.md)
 
 ##### Angular, Material and Firebase
-> [Exploring the Angular 1.5 .component() method](https://toddmotto.com/exploring-the-angular-1-5-component-method/)
+> [Exploring the Angular 1.5 .component() method](https://toddmotto.com/exploring-the-angular-1-5-component-method/)<br>
+> [ng-animate-swap demo](http://plnkr.co/edit/xAuvOc7lkNvs0TsUiysj?p=preview)<br>
+> [Multi-slot transclusion](http://plnkr.co/edit/73qiILR5JRrg0NBlqw10?p=preview)
 ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
 ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Source Maps and Batarang
 
