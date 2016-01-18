@@ -14,6 +14,7 @@
 > * [Web API Reference](https://developer.mozilla.org/en-US/docs/Web/API) / [Specification List](https://developer.mozilla.org/en-US/docs/Web/Specification_list) / [Web API List](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-List.md)
 
 ##### Angular, Material and Firebase
+> [Exploring the Angular 1.5 .component() method](https://toddmotto.com/exploring-the-angular-1-5-component-method/)
 ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
 ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Source Maps and Batarang
 
