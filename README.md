@@ -10,7 +10,7 @@
 > [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 #### JavaScript
-> [Speaking JavaScript](http://speakingjs.com/es5/) / [BOM Reference](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/BOM.md) / [DOM Reference](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/DOM.md) / [API Reference](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/API.md)
+> [Speaking JavaScript](http://speakingjs.com/es5/) / [APIs Reference](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/API.md)
 
 ##### Angular, Material and Firebase
 ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
