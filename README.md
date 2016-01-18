@@ -28,7 +28,7 @@
 
 ***
 
-### Next Generation
+#### Next Generation
 * [Exploring ES6](http://exploringjs.com/es6/)
 * Angular 2
 * TypeScript
