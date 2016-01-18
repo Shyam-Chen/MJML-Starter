@@ -19,3 +19,4 @@
 
 * [File](https://developer.mozilla.org/en-US/docs/Web/API/File)
 * [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
+* [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
