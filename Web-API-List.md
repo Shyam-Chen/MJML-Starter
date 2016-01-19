@@ -41,6 +41,7 @@
 * [Battery Status](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API)
 * [Network Information](https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API)
 * [Navigation Timing](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API)
+* [Encoding](https://developer.mozilla.org/en-US/docs/Web/API/Encoding_API)
 
 ***
 
@@ -51,3 +52,4 @@
 * [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
 * [Ambient Light Events](https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Events)
 * [Proximity Events](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
+* [Touch events](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
