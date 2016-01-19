@@ -49,6 +49,7 @@
 ***
 
 * [Ambient Light Events](https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Events)
+* :+1: [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 * [File](https://developer.mozilla.org/en-US/docs/Web/API/File) / [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob) / [FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader) / [FileList](https://developer.mozilla.org/en-US/docs/Web/API/FileList)
 * :+1: [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
 * [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
