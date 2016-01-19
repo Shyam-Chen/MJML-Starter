@@ -40,6 +40,7 @@
 * [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
 * [Battery Status](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API)
 * [Network Information](https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API)
+* [Navigation Timing](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API)
 
 ***
 
