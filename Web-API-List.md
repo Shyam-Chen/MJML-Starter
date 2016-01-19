@@ -34,14 +34,14 @@
 * :+1: [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
 * [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
 * [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
-* [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
+* :+1: [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
 * [Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 * [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
-* [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
-* [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+* :+1: [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+* :+1: [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 * [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 * [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
-* [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+* :+1: [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 * [WebVR](https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API)
 
 ***
