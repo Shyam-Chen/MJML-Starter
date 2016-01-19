@@ -23,7 +23,7 @@
 ***
 
 #### Next Generation
-* [Exploring ES6](http://exploringjs.com/es6/)
+* ECMAScript 6
 * Angular 2
 * TypeScript
 * Webpack
