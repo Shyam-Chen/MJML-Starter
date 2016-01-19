@@ -1,6 +1,5 @@
 ### Web 隨手筆記
-> * [Developer Handbook](http://www.frontendhandbook.com/)
-> * [Specification List](https://developer.mozilla.org/en-US/docs/Web/Specification_list)
+> [Developer Handbook](http://www.frontendhandbook.com/)
 
 ***
 
