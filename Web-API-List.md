@@ -45,11 +45,11 @@
 
 ***
 
-* [File](https://developer.mozilla.org/en-US/docs/Web/API/File) / [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
-* [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
-* [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
-* [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
-* [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
 * [Ambient Light Events](https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Events)
+* [File](https://developer.mozilla.org/en-US/docs/Web/API/File) / [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
+* [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
+* [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
 * [Proximity Events](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
+* [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 * [Touch events](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
+* [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
