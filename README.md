@@ -16,8 +16,8 @@
 >   * Multi-slot transclusion: [Demo](http://plnkr.co/edit/73qiILR5JRrg0NBlqw10?p=preview)<br>
 > * [Migrating from 1.3 to 1.4](https://docs.angularjs.org/guide/migration#migrating-from-1-3-to-1-4)<br>
 > * [Migrating from 1.2 to 1.3](https://docs.angularjs.org/guide/migration#migrating-from-1-2-to-1-3)
-###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
-###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Source Maps and Batarang
+> ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
+> ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Source Maps and Batarang
 
 ***
 
