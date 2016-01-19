@@ -46,3 +46,4 @@
 * [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 * [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
 * [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+* [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
