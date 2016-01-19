@@ -2,7 +2,7 @@
 * [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 * [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator)
 * [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen)
-* [History](https://developer.mozilla.org/en-US/docs/Web/API/History)
+* :+1: [History](https://developer.mozilla.org/en-US/docs/Web/API/History)
 * [Location](https://developer.mozilla.org/en-US/docs/Web/API/Location)
 
 ***
@@ -48,7 +48,7 @@
 
 * [Ambient Light Events](https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Events)
 * [File](https://developer.mozilla.org/en-US/docs/Web/API/File) / [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob) / [FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader) / [FileList](https://developer.mozilla.org/en-US/docs/Web/API/FileList)
-* [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
+* :+1: [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
 * [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
 * [Proximity Events](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
 * [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
