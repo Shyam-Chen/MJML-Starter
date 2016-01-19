@@ -36,6 +36,7 @@
 * [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 * [Channel Messaging](https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API)
 * [Broadcast Channel](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
+* [Fullscreen](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
 
 ***
 
