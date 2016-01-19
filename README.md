@@ -25,5 +25,3 @@
 #### Next Generation
 * JavaScript 2.0
 * Angular 2.0
-* TypeScript
-* Webpack
