@@ -12,11 +12,3 @@
 ##### Angular, Material and Firebase
 > ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
 > ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Source Maps and Batarang
-
-***
-
-#### Next Generation
-> * [ECMAScript 2015](http://www.ecma-international.org/ecma-262/6.0/)
-> * [Angular 2](https://angular.io/)
->   * [TypeScript](http://www.typescriptlang.org/)
->   * [Webpack](https://webpack.github.io/)
