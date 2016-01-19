@@ -38,6 +38,7 @@
 * [Broadcast Channel](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
 * [Fullscreen](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
 * [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+* [Battery Status](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API)
 
 ***
 
