@@ -3,7 +3,7 @@
 
 ***
 
-#### HTML / CSS / JavaScript / Web API
+#### HTML / CSS / JavaScript
 > * [HTML Reference](https://www.w3.org/TR/html51/index.html)
 > * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 > * [Speaking JavaScript](http://speakingjs.com/es5/)
