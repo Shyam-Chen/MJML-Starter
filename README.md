@@ -1,4 +1,4 @@
-### Web 隨手筆記
+### Web
 > [Developer Handbook](http://www.frontendhandbook.com/)
 
 ***
