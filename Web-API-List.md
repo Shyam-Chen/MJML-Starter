@@ -24,6 +24,7 @@
 * [Channel Messaging](https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API)
 * [Encoding](https://developer.mozilla.org/en-US/docs/Web/API/Encoding_API)
 * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+* [File System](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API)
 * [Fullscreen](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
 * [HTML Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
 * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
