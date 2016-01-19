@@ -23,7 +23,7 @@
 ***
 
 #### Next Generation
-* ECMAScript 2015
-* Angular 2
-  * TypeScript
-  * Webpack
+* [ECMAScript 2015](http://www.ecma-international.org/ecma-262/6.0/)
+* [Angular 2](https://angular.io/)
+  * [TypeScript](http://www.typescriptlang.org/)
+  * [Webpack](https://webpack.github.io/)
