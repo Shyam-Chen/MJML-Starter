@@ -47,7 +47,7 @@
 ***
 
 * [Ambient Light Events](https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Events)
-* [File](https://developer.mozilla.org/en-US/docs/Web/API/File) / [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
+* [File](https://developer.mozilla.org/en-US/docs/Web/API/File) / [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob) / [FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader) / [FileList](https://developer.mozilla.org/en-US/docs/Web/API/FileList)
 * [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
 * [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
 * [Proximity Events](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
