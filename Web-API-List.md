@@ -1,5 +1,6 @@
 ### BOM
 * [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+  * :+1: [Timing control for script-based animations](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * :+1: [Web Messaging](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage)
 * [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator)
 * [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen)
