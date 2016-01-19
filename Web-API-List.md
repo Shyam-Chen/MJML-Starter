@@ -47,3 +47,4 @@
 * [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
 * [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 * [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
+* [Ambient Light Events](https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Events)
