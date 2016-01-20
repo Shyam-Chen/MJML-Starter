@@ -15,5 +15,6 @@
 
 ***
 
-#### JavaScript (ES6)
-##### Angular2 + TypeScript + Webpack
+#### Next Generation
+* JavaScript (ES6)
+* Angular2 + TypeScript + Webpack
