@@ -41,6 +41,7 @@
 * :+1: [User Timing ](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)
 * :+1: [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
 * [Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+* [Web Crypto](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
 * [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 * :+1: [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 * :+1: [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
