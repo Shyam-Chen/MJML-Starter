@@ -13,8 +13,4 @@
 > ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
 > ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Source Maps and Batarang
 
-***
-
-#### Next Generation
-* ECMAScript 2015 (ES6)
-* Angular 2 + TypeScript + Webpack
+##### Angular 2 + TypeScript + Webpack
