@@ -16,5 +16,5 @@
 ***
 
 #### JavaScript (ES6)
-##### Angular (2.0) & TypeScript
+##### Angular 2 & TypeScript
 ##### Webpack
