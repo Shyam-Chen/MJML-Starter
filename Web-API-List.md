@@ -36,7 +36,7 @@
 * :+1: [Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
 * :+1: [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
 * [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
-* [Resource Timing API](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API)
+* [Resource Timing](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API)
 * [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 * :+1: [User Timing ](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)
 * :+1: [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
