@@ -56,6 +56,6 @@
 * [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
 * [Proximity Events](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
 * :+1: [Server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
-* [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+* :+1: [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 * [Touch events](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
 * [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
