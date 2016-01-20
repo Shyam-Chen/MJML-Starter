@@ -6,7 +6,7 @@
   * :+1: [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
 * [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen)
 * :+1: [History](https://developer.mozilla.org/en-US/docs/Web/API/History)
-* [Location](https://developer.mozilla.org/en-US/docs/Web/API/Location)
+* :+1: [Location](https://developer.mozilla.org/en-US/docs/Web/API/Location)
 
 ***
 
