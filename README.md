@@ -12,3 +12,9 @@
 ##### Angular, Material and Firebase
 > ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
 > ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Source Maps and Batarang
+
+***
+
+#### JavaScript (ES6)
+##### Angular (2.0) & TypeScript
+##### Webpack
