@@ -12,4 +12,4 @@
 > ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Source Maps and Batarang
 
 ##### Angular 2
-> ###### TypeScript and Webpack
+> ###### TypeScript and Webpack ...
