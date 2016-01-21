@@ -1,9 +1,5 @@
 ### Web
-> [Developer Handbook](http://www.frontendhandbook.com/)
-
-***
-
-#### HTML / CSS / JavaScript
+> * [Developer Handbook](http://www.frontendhandbook.com/)
 > * [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 > * [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 > * [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
