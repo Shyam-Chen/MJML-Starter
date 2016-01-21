@@ -1,4 +1,4 @@
-### Web - HTML / CSS / JavaScript
+### Web - HTML / CSS / JavaScript :100:
 > * [Developer Handbook](http://www.frontendhandbook.com/)
 > * [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 > * [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
