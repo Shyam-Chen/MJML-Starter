@@ -1,4 +1,6 @@
-### Web - HTML / CSS / JavaScript
+# Web
+
+### HTML / CSS / JavaScript
 * [HTML Reference]
 * [CSS Reference]
 * [JavaScript Reference] / [JavaScript Next List]
