@@ -16,7 +16,7 @@
 [Developer Handbook]: http://www.frontendhandbook.com/
 
 ##### Angular, Material and Firebase
-> ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, Browserify, Browsersync and Atom
+> ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, PostStylus, Browserify, Browsersync and Atom
 > ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Source Maps and Batarang
 
 ##### Angular 2
