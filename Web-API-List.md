@@ -35,7 +35,7 @@
 * [Network Information](https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API)
 * :+1::+1::100: [Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
 * :+1::+1::100: [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
-* :+1::100: [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+* :100: [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
 * [Resource Timing](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API)
 * [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 * :+1: [User Timing ](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)
