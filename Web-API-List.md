@@ -3,7 +3,7 @@
   * :+1: [Timing control for script-based animations](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * :+1: [Web Messaging](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage)
 * [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator)
-  * :+1: :+1: [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
+  * :+1: [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation) :+1:
 * [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen)
 * :+1: [History](https://developer.mozilla.org/en-US/docs/Web/API/History)
 * :+1: [Location](https://developer.mozilla.org/en-US/docs/Web/API/Location)
@@ -30,16 +30,16 @@
 * [File System](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API)
 * [Fullscreen](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
 * :+1: [HTML Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
-* :+1: :+1: [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* :+1: [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) :+1:
 * [Navigation Timing](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API)
 * [Network Information](https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API)
-* :+1: :+1: [Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
-* :+1: :+1: [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
+* :+1: [Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API) :+1:
+* :+1: [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API) :+1:
 * [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
 * [Resource Timing](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API)
 * [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 * :+1: [User Timing ](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)
-* :+1: [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
+* :+1: [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API) :+1:
 * [Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 * [Web Crypto](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
 * [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
