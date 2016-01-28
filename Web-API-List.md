@@ -30,7 +30,7 @@
 * [File System](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API)
 * [Fullscreen](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
 * :+1: [HTML Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
-* :+1: [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* :+1: :100: [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [Navigation Timing](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API)
 * [Network Information](https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API)
 * :+1: [Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
