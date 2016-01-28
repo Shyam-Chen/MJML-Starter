@@ -3,7 +3,7 @@
   * :+1: [Timing control for script-based animations](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * :+1: [Web Messaging](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage)
 * [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator)
-  * :+1: [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
+  * :+1::100: [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
 * [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen)
 * :+1: [History](https://developer.mozilla.org/en-US/docs/Web/API/History)
 * :+1: [Location](https://developer.mozilla.org/en-US/docs/Web/API/Location)
