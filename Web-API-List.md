@@ -18,6 +18,7 @@
   * document.getElementsByTagName()
   * document.querySelectorAll()
 * [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
+  * element.scrollTop
 * [Attr](https://developer.mozilla.org/en-US/docs/Web/API/Attr)
 * [Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 * [StyleSheet](https://developer.mozilla.org/en-US/docs/Web/API/StyleSheet)
