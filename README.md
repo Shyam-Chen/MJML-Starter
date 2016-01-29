@@ -5,7 +5,6 @@
 * [CSS Reference]
 * [JavaScript Reference] / [JavaScript Next List]
 * [Web API Reference] / [Web API List]
-* [Developer Handbook]
 
 [HTML Reference]: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference
 [CSS Reference]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
@@ -13,7 +12,6 @@
 [JavaScript Next List]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla 
 [Web API Reference]: https://developer.mozilla.org/en-US/docs/Web/API
 [Web API List]: https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-List.md
-[Developer Handbook]: http://www.frontendhandbook.com/
 
 ##### Angular, Material and Firebase
 > ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, PostStylus, Browserify, Browsersync and Atom
