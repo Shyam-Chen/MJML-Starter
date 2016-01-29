@@ -12,6 +12,7 @@
 
 ### DOM
 * [Document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+  * document.addEventListener()
   * document.querySelectorAll()
 * [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
 * [Attr](https://developer.mozilla.org/en-US/docs/Web/API/Attr)
