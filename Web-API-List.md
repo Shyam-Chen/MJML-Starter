@@ -13,6 +13,9 @@
 ### DOM
 * [Document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
   * document.addEventListener()
+  * document.getElementById()
+  * document.getElementsByClassName()
+  * document.getElementsByTagName()
   * document.querySelectorAll()
 * [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
 * [Attr](https://developer.mozilla.org/en-US/docs/Web/API/Attr)
