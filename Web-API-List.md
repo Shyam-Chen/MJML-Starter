@@ -20,6 +20,8 @@
 * [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
   * element.removeAttribute()
   * element.removeAttributeNode()
+  * element.removeChild()
+  * element.replaceChild()
   * element.scrollTop
   * element.style
 * [Attr](https://developer.mozilla.org/en-US/docs/Web/API/Attr)
