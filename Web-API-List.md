@@ -12,7 +12,6 @@
 
 ### DOM
 * [Document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
-  * document.addEventListener()
   * document.getElementById()
   * document.getElementsByClassName()
   * document.getElementsByTagName()
