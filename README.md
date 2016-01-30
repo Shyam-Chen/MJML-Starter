@@ -11,4 +11,4 @@
 > ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Source Maps and Batarang
 
 ##### Angular 2
-> ...
+> ###### Jade, Stylus, TypeScript, Git, NPM, Gulp, PostStylus, System, Browsersync and Atom
