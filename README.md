@@ -11,3 +11,4 @@
 > ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Source Maps and Batarang
 
 ##### Angular 2
+> ...
