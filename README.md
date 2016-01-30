@@ -12,3 +12,4 @@
 
 ##### Angular 2
 > ###### Jade, Stylus, TypeScript, Git, NPM, Gulp, PostStylus, System, Browsersync and Atom
+> ###### Jadelint, Stylint, TSLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Source Maps and Batarangle
