@@ -11,5 +11,5 @@
 > ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Source Maps and Batarang
 
 ##### Angular 2, Material 2 and Firebase
-> ###### Jade, Stylus, TypeScript, Git, NPM, (Gulp), PostStylus, (Webpack or System), (Browsersync) and Atom
+> ###### Jade, Stylus, TypeScript, Git, NPM, Gulp, PostStylus, System, Browsersync and Atom
 > ###### Jadelint, Stylint, TSLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Source Maps and Batarangle
