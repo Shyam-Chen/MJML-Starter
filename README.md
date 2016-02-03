@@ -8,8 +8,8 @@
 
 ##### Angular, Material and Firebase
 > ###### Jade, Stylus, CoffeeScript, Git, NPM, Gulp, PostStylus, Browserify, Browsersync and Atom
-> ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Source Maps and Batarang
+> ###### Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Coveralls, Source Maps and Batarang
 
 ##### Angular 2, Material 2 and Firebase 2
 > ###### Jade, Stylus, TypeScript, Git, NPM, Webpack, PostStylus, Typings, Browsersync  and Atom
-> ###### Jadelint, Stylint, TSLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Source Maps and Batarangle
+> ###### Jadelint, Stylint, TSLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Coveralls, Source Maps and Batarangle
