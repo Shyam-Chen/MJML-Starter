@@ -15,8 +15,10 @@
 * Git
 * NPM
 * Gulp
-* Jade, Stylus (PostStylus) & CoffeeScript (Browserify)
+* Jade, Stylus & CoffeeScript
   * Linter & Source Maps
+  * PostStylus
+  * Browserify
 * Browsersync
 
 ##### Angular 2, Material 2 and Firebase 2
