@@ -14,12 +14,12 @@
 * Bash & Atom
 * Git
 * NPM
-* Gulp
-* Jade, Stylus & CoffeeScript
-  * Linter & Source Maps
-  * PostStylus
-  * Browserify
-* Browsersync
+  * Gulp
+    * Jade, Stylus & CoffeeScript
+      * Linter & Source Maps
+      * PostStylus
+      * Browserify
+    * Browsersync
 
 ##### Angular 2, Material 2 and Firebase 2
 > Jade, Stylus, TypeScript, Bash, Git, NPM, Webpack, PostStylus, Typings, Browsersync  and Atom<br>
