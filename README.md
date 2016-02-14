@@ -19,7 +19,7 @@
       * Jadelint
     * Stylus
       * PostStylus
-      * stylint & Source Maps
+      * Stylint & Source Maps
     * CoffeeScript
       * Browserify
       * CoffeeLint & Source Maps
