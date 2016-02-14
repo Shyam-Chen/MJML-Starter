@@ -11,9 +11,9 @@
 > Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Coveralls, Source Maps and Batarang
 
 ###### angular-starter-kit:
-Bash, Git, NPM,<br>
-Gulp, Jade, Jadelint, Stylus, PostStylus, Stylint, CoffeeScript, Browserify, CoffeeLint, Source Maps, Browsersync,<br>
-Atom
+Bash, Atom,<br>
+Git, NPM, Gulp, Jade, Jadelint, Stylus, PostStylus, Stylint, CoffeeScript, Browserify, CoffeeLint, Source Maps, Browsersync,<br>
+
 
 ##### Angular 2, Material 2 and Firebase 2
 > Jade, Stylus, TypeScript, Bash, Git, NPM, Webpack, PostStylus, Typings, Browsersync  and Atom<br>
