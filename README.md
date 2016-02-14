@@ -10,7 +10,7 @@
 > Jade, Stylus, CoffeeScript, Bash, Git, NPM, Gulp, PostStylus, Browserify, Browsersync and Atom<br>
 > Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Coveralls, Source Maps and Batarang
 
-###### angular-starter-kit:
+angular-starter-kit:
 * Bash & Atom
 * Git
 * NPM
