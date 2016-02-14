@@ -34,10 +34,10 @@
 * Git
 * NPM
 * Gulp
-* Jade
-* Stylus
-* TypeScript
-* PostStylus
-* Typings
-* System
-* Browsersync
+  * Jade
+  * Stylus
+    * PostStylus
+  * TypeScript
+    * Typings
+    * System
+  * Browsersync
