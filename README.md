@@ -31,16 +31,16 @@
 
 ##### angular2-starter-kit:
 * Bash & Atom
-* Git
-* NPM
-* Gulp
-  * Jade
-    * Jadelint
-  * Stylus
-    * PostStylus
-    * Stylint & Source Maps
-  * TypeScript
-    * Typings
-    * System
-    * TSLint & Source Maps
-  * Browsersync
+  * Git
+  * NPM
+  * Gulp
+    * Jade
+      * Jadelint
+    * Stylus
+      * PostStylus
+      * Stylint & Source Maps
+    * TypeScript
+      * Typings
+      * System
+      * TSLint & Source Maps
+    * Browsersync
