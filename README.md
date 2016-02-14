@@ -28,3 +28,5 @@
 ##### Angular 2, Material 2 and Firebase 2
 > Jade, Stylus, TypeScript, Bash, Git, NPM, Webpack, PostStylus, Typings, Browsersync  and Atom<br>
 > Jadelint, Stylint, TSLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Coveralls, Source Maps and Batarangle
+
+##### angular2-starter-kit:
