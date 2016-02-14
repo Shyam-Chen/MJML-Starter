@@ -12,7 +12,7 @@
 
 ###### angular-starter-kit:
 Bash, Git, NPM,<br>
-Gulp,Jade, Jadelint, Stylus, PostStylus, Stylint, CoffeeScript, Browserify, CoffeeLint, Source Maps, Browsersync,<br>
+Gulp, Jade, Jadelint, Stylus, PostStylus, Stylint, CoffeeScript, Browserify, CoffeeLint, Source Maps, Browsersync,<br>
 Atom
 
 ##### Angular 2, Material 2 and Firebase 2
