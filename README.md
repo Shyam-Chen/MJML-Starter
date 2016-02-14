@@ -45,7 +45,7 @@ Jadelint, Stylint, TSLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Cove
         * PostStylus
         * Stylint & Source Maps
       * TypeScript
-        * Typings
         * System
+        * Typings
         * TSLint & Source Maps
       * Browsersync
