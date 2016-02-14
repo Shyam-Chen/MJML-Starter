@@ -24,6 +24,7 @@ Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, 
         * Stylint & Source Maps
       * CoffeeScript
         * Browserify
+        * Watchify
         * CoffeeLint & Source Maps
       * Browsersync
 
