@@ -18,7 +18,6 @@ Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, 
   * NPM
     * Gulp
       * Jade
-        * Jadelint
       * Stylus
         * PostStylus
         * Stylint & Source Maps
@@ -40,7 +39,6 @@ Jadelint, Stylint, TSLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Cove
   * NPM
     * Gulp
       * Jade
-        * Jadelint
       * Stylus
         * PostStylus
         * Stylint & Source Maps
