@@ -18,4 +18,4 @@ Jadelint, Stylint, TSLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Cove
 
 ***
 
-Beginner ➜ Developer -➜Engineer ->➜xpert
+##### Beginner → Developer → Engineer → Expert
