@@ -1,20 +1,8 @@
-<h1 align="center">
-  Programming the Web 
-</h1>
-<h6> Beginner → Developer → Engineer → Expert </h6>
-<h3 align="center"> Web Technologies </h3>
+# Programming the Web
 
-<div align="center">
-  <ul>
-    <li>
-      HTML: 
-        <a href="https://www.w3.org/TR/html51/"> Standard </a> / 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference"> Reference </a>
-    </li>
-  </ul>
-</div>
+###### Beginner → Developer → Engineer → Expert
 
-
+### Web Technologies
 * HTML: [Standard](https://www.w3.org/TR/html51/) / [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 * CSS: [Standard](https://www.w3.org/Style/CSS/current-work) / [Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * JavaScript: [Standard](http://www.ecma-international.org/ecma-262/6.0/) / [Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
