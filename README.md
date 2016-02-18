@@ -1,7 +1,5 @@
 # Programming the Web
 
-###### Beginner → Developer → Engineer → Expert
-
 ### Web Technologies
 * HTML: [Standard](https://www.w3.org/TR/html51/) / [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 * CSS: [Standard](https://www.w3.org/Style/CSS/current-work) / [Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
