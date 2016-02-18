@@ -1,4 +1,6 @@
-<h1 align="center"> Programming the Web </h1>
+<h1 align="center">
+  Programming the Web <small> Beginner → Developer → Engineer → Expert </small>
+</h1>
 
 <h3 align="center"> Web Technologies </h3>
 
@@ -35,4 +37,4 @@
 
 ***
 
-<h5 align="center"> Beginner → Developer → Engineer → Expert </h5>
+<h5 align="center"></h5>
