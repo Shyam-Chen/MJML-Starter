@@ -3,7 +3,9 @@
 <h3 align="center"> Web Technologies </h3>
 <ul>
   <li>
-    HTML: <a href="https://www.w3.org/TR/html51/"> Standard </a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference"> / <a> Reference </a>
+    HTML: 
+      <a href="https://www.w3.org/TR/html51/"> Standard </a> / 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference"> Reference </a>
   </li>
 </ul>
 * HTML: [Standard](https://www.w3.org/TR/html51/) / [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
