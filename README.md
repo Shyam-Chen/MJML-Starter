@@ -2,7 +2,7 @@
 
 <h3 align="center"> Web Technologies </h3>
 
-<nav align="center">
+<div align="center">
   <ul>
     <li>
       HTML: 
@@ -10,7 +10,7 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference"> Reference </a>
     </li>
   </ul>
-</nav>
+</div>
 
 
 * HTML: [Standard](https://www.w3.org/TR/html51/) / [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
