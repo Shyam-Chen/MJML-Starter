@@ -1,4 +1,3 @@
-<div align="center">
 # Programming the Web
 
 ### Web Technologies
@@ -20,4 +19,3 @@ Jadelint, Stylint, TSLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Cove
 ***
 
 <h5 align="center"> Beginner → Developer → Engineer → Expert </h5>
-</div>
