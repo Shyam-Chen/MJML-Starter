@@ -1,5 +1,4 @@
 <div align="center">
-
 <h1 align="center"> Programming the Web </h1>
 
 <h3 align="center"> Web Technologies </h3>
@@ -12,6 +11,7 @@
   </li>
 </ul>
 </div>
+
 * HTML: [Standard](https://www.w3.org/TR/html51/) / [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 * CSS: [Standard](https://www.w3.org/Style/CSS/current-work) / [Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * JavaScript: [Standard](http://www.ecma-international.org/ecma-262/6.0/) / [Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
