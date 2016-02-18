@@ -1,7 +1,9 @@
+<div align="center">
+
 <h1 align="center"> Programming the Web </h1>
 
 <h3 align="center"> Web Technologies </h3>
-<div align="center">
+
 <ul>
   <li>
     HTML: 
