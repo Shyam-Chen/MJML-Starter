@@ -1,7 +1,7 @@
 <h1 align="center"> Programming the Web </h1>
 
 <h3 align="center"> Web Technologies </h3>
-<ul>
+<ul align="center">
   <li>
     HTML: 
       <a href="https://www.w3.org/TR/html51/"> Standard </a> / 
