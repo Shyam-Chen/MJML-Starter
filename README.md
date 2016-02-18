@@ -8,7 +8,7 @@
 
 ***
 
-<h5 align="cebter"> Angular, Material and Firebase </h5>
+<h5 align="center"> Angular, Material and Firebase </h5>
 Jade, Stylus, CoffeeScript, Bash, Git, NPM, Gulp, PostStylus, Browserify, Browsersync and Atom<br>
 Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Istanbul, Protractor, Travis CI, Coveralls, Source Maps and Batarang
 
