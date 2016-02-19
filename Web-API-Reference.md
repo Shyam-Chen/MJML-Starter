@@ -68,6 +68,7 @@
 * [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 * [File](https://developer.mozilla.org/en-US/docs/Web/API/File) / [FileList](https://developer.mozilla.org/en-US/docs/Web/API/FileList) / [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob) / [FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
 * [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
+* [Offline Web Applications](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache)
 * [Proximity Events](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
 * [Server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 * [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
