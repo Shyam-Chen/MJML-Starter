@@ -11,11 +11,9 @@
 ##### Angular, Material and Firebase
 Bash and Atom<br>
 Jade, Stylus and CoffeeScript (Linter and Source Maps)<br>
-Git, NPM, Gulp, PostStylus, Browserify and Browsersync<br>
-Jasmine, Karma, Istanbul, Protractor, Travis CI, Coveralls and Batarang
+Git, NPM, Gulp, PostStylus, Browserify and Browsersync
 
 ##### Angular 2, Material 2 and Firebase 2
 Bash and Atom<br>
 Jade, Stylus and TypeScript (Linter and Source Maps)<br>
-Git, NPM, Gulp, PostStylus, System, Typings and Browsersync<br>
-Jasmine, Karma, Istanbul, Protractor, Travis CI, Coveralls and Batarangle
+Git, NPM, Gulp, PostStylus, System, Typings and Browsersync
