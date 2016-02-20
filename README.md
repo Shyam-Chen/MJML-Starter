@@ -14,6 +14,6 @@
 * Git, NPM, Gulp, PostStylus, Browserify and Browsersync
 
 ##### Angular 2, Material 2 and Firebase 2
-Bash and Atom<br>
-Jade, Stylus and TypeScript (Linter and Source Maps)<br>
-Git, NPM, Gulp, PostStylus, System, Typings and Browsersync
+* Bash and Atom
+* Jade, Stylus and TypeScript (Linter and Source Maps)
+* Git, NPM, Gulp, PostStylus, System, Typings and Browsersync
