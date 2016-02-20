@@ -18,4 +18,4 @@ Jasmine, Karma, Istanbul, Protractor, Travis CI, Coveralls and Batarang
 Bash and Atom<br>
 Jade, Stylus and TypeScript (Linter and Source Maps)<br>
 Git, NPM, Gulp, PostStylus, System, Typings and Browsersync<br>
-Jasmine, Karma, Istanbul, Remap Istanbul, Protractor, Travis CI, Coveralls and Batarangle
+Jasmine, Karma, Istanbul, Protractor, Travis CI, Coveralls and Batarangle
