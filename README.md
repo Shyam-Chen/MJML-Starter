@@ -9,9 +9,9 @@
 ***
 
 ##### Angular, Material and Firebase
-Bash and Atom<br>
-Jade, Stylus and CoffeeScript (Linter and Source Maps)<br>
-Git, NPM, Gulp, PostStylus, Browserify and Browsersync
+* Bash and Atom
+* Jade, Stylus and CoffeeScript (Linter and Source Maps)
+* Git, NPM, Gulp, PostStylus, Browserify and Browsersync
 
 ##### Angular 2, Material 2 and Firebase 2
 Bash and Atom<br>
