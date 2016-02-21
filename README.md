@@ -20,4 +20,4 @@
 
 ***
 
-<h6 align="right">Web Developer</h6>
+<i align="right">Web Developer</i>
