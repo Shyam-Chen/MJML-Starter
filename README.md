@@ -17,3 +17,7 @@
 * Bash and Atom
 * Jade, Stylus and TypeScript
 * Git, NPM, Gulp, PostStylus, SystemJS, Typings and BrowserSync
+
+***
+
+<h6 align="right">Web Developer</h6>
