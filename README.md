@@ -15,7 +15,7 @@
 [4-1]: https://www.w3.org/TR/#tr_Javascript_APIs
 [4-2]: https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-Reference.md
 
-### Agile Methods
+### Agile Methodologies
 * Scrum
 * eXtreme Programming
 * Lean
