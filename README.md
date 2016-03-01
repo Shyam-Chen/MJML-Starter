@@ -1,10 +1,12 @@
 # Programming the Web
 
 ### Web Technologies
-* HTML: [Standard](https://www.w3.org/TR/html51/) / [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+* HTML: [Standard][1-1] / [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 * CSS: [Standard](https://www.w3.org/Style/CSS/current-work) / [Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * JavaScript: [Standard](http://www.ecma-international.org/ecma-262/6.0/) / [Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * Web API: [Standard](https://www.w3.org/TR/#tr_Javascript_APIs) / [Reference](https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-Reference.md)
+
+[1-1]: https://www.w3.org/TR/html51/
 
 ### Agile Methods
 * Scrum
