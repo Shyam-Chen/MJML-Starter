@@ -17,3 +17,11 @@
 * Bash and Atom
 * Jade, Stylus and TypeScript
 * Git, NPM, Gulp, PostStylus, SystemJS, Typings and BrowserSync
+
+***
+
+### On the Team
+* Scrum
+* XP
+* Lean
+* Kanban
