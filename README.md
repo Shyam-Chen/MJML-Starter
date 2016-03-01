@@ -18,6 +18,6 @@
 
 ### Agile
 * Scrum
-* XP
+* eXtreme Programming
 * Lean
 * Kanban
