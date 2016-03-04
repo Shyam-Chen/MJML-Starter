@@ -21,7 +21,7 @@
 * Lean
 * Kanban
 
-### Angular Applications (Project: )
+### Angular Applications (Project: [Angular Starter Kit](https://github.com/Shyam-Chen/angular-starter-kit))
 * Angular, Material and Firebase
 * Bash and Atom
 * Jade, Stylus and CoffeeScript
