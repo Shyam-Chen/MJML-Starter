@@ -1,10 +1,10 @@
 # Programming the Web
 
 ### Web Technologies
-* HTML
-* CSS
+* HyperText Markup Language
+* Cascading Style Sheets
 * JavaScript
-* Web API
+* Web Application Programming Interface
 
 ### Agile Methodologies
 * Scrum
