@@ -13,7 +13,7 @@
 * Kanban
 
 ### Hacking Methodologies
-* Initialing Control
+* Initializing Control
 * Retaining Control
 * Bypassing the Same Origin Policy
 * Attacking Users
