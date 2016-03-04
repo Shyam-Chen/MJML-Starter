@@ -14,6 +14,8 @@
 
 ***
 
+## Angular
+
 ### Angular Applications
 * Angular, Material and Firebase
 * Bash and Atom
