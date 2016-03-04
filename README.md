@@ -6,25 +6,6 @@
 * JavaScript
 * Web Application Programming Interface
 
-### Agile Methodologies
-* Scrum
-* eXtreme Programming
-* Lean
-* Kanban
-
-### Hacking Methodologies
-* Initialing Control
-* Retaining Control
-* Bypassing the Same Origin Policy
-* Attacking Users
-* Attacking Browsers
-* Attacking Extensions
-* Attacking Plugins
-* Attacking Web Applications
-* Attacking Networks
-
-***
-
 ### Angular Applications
 * Angular, Material and Firebase
 * Bash and Atom
