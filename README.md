@@ -1,6 +1,6 @@
 # Programming the Web
 
-### Web Technologies
+### Web Technologies (Site: [Web Platform](https://platform.html5.org/))
 * HTML: [Standard][1-1] / [Reference][1-2]
 * CSS: [Standard][2-1] / [Reference][2-2]
 * JavaScript: [Standard][3-1] / [Reference][3-2]
