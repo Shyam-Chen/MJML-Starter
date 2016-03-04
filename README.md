@@ -15,13 +15,13 @@
 [4-1]: https://www.w3.org/TR/#tr_Javascript_APIs
 [4-2]: https://github.com/Shyam-Chen/Web-Cheat-Sheet/blob/master/Web-API-Reference.md
 
-### Agile Methodologies (Book: [Learning Agile](http://shop.oreilly.com/product/0636920025849.do))
+### Agile Methodologies #####(Book: [Learning Agile](http://shop.oreilly.com/product/0636920025849.do))
 * Scrum
 * eXtreme Programming
 * Lean
 * Kanban
 
-### Angular Applications
+### Angular Applications ()
 * Angular, Material and Firebase
 * Bash and Atom
 * Jade, Stylus and CoffeeScript
