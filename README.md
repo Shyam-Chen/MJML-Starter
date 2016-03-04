@@ -12,7 +12,10 @@
 * Lean
 * Kanban
 
-### Information Security
+### Hacking Methodologies
+* Initialing Control
+* Retaining Control
+* Bypassing the Same Origin Policy
 * Attacking Users
 * Attacking Browsers
 * Attacking Extensions
