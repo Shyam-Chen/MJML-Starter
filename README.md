@@ -12,6 +12,16 @@
 * Lean
 * Kanban
 
+### Information Security
+* Attacking Users
+* Attacking Browsers
+* Attacking Extensions
+* Attacking Plugins
+* Attacking Web Applications
+* Attacking Networks
+
+***
+
 ### Angular Applications
 * Angular, Material and Firebase
 * Bash and Atom
