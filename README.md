@@ -1,16 +1,18 @@
 # Programming the Web
 
-### Web Technologies
+### Web Technologies (Individual)
 * HyperText Markup Language
 * Cascading Style Sheets
 * JavaScript
 * Web Application Programming Interface
 
-### Agile Methodologies
+### Agile Methodologies (Team)
 * Scrum
 * eXtreme Programming
 * Lean
 * Kanban
+
+***
 
 ### Angular Applications
 * Angular, Material and Firebase
