@@ -27,7 +27,7 @@
 * Jade, Stylus and CoffeeScript
 * Git, NPM, Gulp, PostStylus, Browserify and BrowserSync
 
-### Angular 2 Applications
+### Angular 2 Applications (Project: Angular 2 Starter Kit)
 * Angular 2, Material 2 and Firebase 2
 * Bash and Atom
 * Jade, Stylus and TypeScript
