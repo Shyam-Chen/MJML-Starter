@@ -3,7 +3,7 @@
 ### Web Technologies
 * HyperText Markup Language
 * Cascading Style Sheets
-* JavaScript
+* European Computer Manufacturers Association Script
 * Web Application Programming Interface
 
 ### Angular Applications
