@@ -1,11 +1,11 @@
 # Programming the Web
 
 ### Web Technologies
-* HyperText Markup Language
-* Cascading Style Sheets
-* European Computer Manufacturers Association Script
-* Web Application Programming Interface
-* Node Application Programming Interface
+* HyperText Markup Language (HTML)
+* Cascading Style Sheets (CSS)
+* European Computer Manufacturers Association Script (Core JavaScript)
+* Web Application Programming Interface (Client-Side JavaScript)
+* Node Application Programming Interface (Server-Side JavaScript)
 
 ***
 
