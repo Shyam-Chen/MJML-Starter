@@ -21,3 +21,4 @@
 * Bash and Atom
 * Jade, Stylus and TypeScript
 * Git, NPM, Gulp, Nib, PostStylus, SystemJS, Typings and BrowserSync
+* Jadelint, Stylint, TSLint, Karma, Jasmine, Istanbul, Protractor, Travis CI and Coveralls
