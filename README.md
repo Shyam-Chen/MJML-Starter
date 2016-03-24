@@ -14,11 +14,11 @@
 * Bash and Atom
 * Jade, Stylus and CoffeeScript
 * Git, NPM, Gulp, Nib, PostStylus, Browserify, Watchify and BrowserSync
-* Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor, Travis CI, Istanbul and Coveralls
+* Jadelint, Stylint, CoffeeLint, Jasmine, Karma, Protractor and Travis CI
 
 ### Angular 2 Applications
 * Angular 2, Material 2 and Firebase 2
 * Bash and Atom
 * Jade, Stylus and TypeScript
 * Git, NPM, Gulp, Nib, PostStylus, SystemJS, Typings and BrowserSync
-* Jadelint, Stylint, TSLint, Jasmine, Karma, Protractor, Travis CI, Istanbul and Coveralls
+* Jadelint, Stylint, TSLint, Jasmine, Karma, Protractor and Travis CI
