@@ -7,6 +7,8 @@
 * Web Application Programming Interface (aka Client-Side JavaScript)
 * Node Application Programming Interface (aka Server-Side JavaScript)
 
+***
+
 ### Angular Applications
 * Angular, Material and Firebase
 * Bash, Atom, Git and NPM
