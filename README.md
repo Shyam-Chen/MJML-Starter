@@ -13,8 +13,10 @@
 * Angular, Material and Firebase
 * Bash, Atom, Git and NPM
 * Jade, Stylus and CoffeeScript
-* Gulp, Jadelint, PostStylus, Stylint, Browserify, CoffeeLint and BrowserSync
-* Jasmine, Karma, Protractor, Travis CI, Istanbul, Coveralls and Codacy
+* Gulp, PostStylus, Browserify and BrowserSync
+* Jadelint, Stylint and CoffeeLint
+* Jasmine, Karma, Istanbul and Protractor
+* Travis CI, Codacy, Coveralls and Sauce Labs
 
 ### Angular 2 Applications
 * Angular 2, Material 2 and Firebase 2
