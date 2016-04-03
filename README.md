@@ -1,11 +1,11 @@
 # Programming the Web
 
 ### Web Technologies
-* HyperText Markup Language (aka HTML)
-* Cascading Style Sheets (aka CSS)
-* European Computer Manufacturers Association Script (aka Core JavaScript)
-* Web Application Programming Interface (aka Client-Side JavaScript)
-* Node Application Programming Interface (aka Server-Side JavaScript)
+* HyperText Markup Language
+* Cascading Style Sheets
+* European Computer Manufacturers Association Script
+* Web Application Programming Interface
+* Node Application Programming Interface
 
 ***
 
@@ -22,5 +22,7 @@
 * Angular 2, Material 2 and Firebase 2
 * Bash, Atom, Git and NPM
 * Jade, Stylus and TypeScript
-* Gulp, Jadelint, PostStylus, Stylint, SystemJS, Typings, TSLint and BrowserSync
-* Jasmine, Karma, Protractor, Travis CI, Istanbul, Coveralls and Codacy
+* Gulp, PostStylus, SystemJS, Typings and BrowserSync
+* Jadelint, Stylint and TSLint
+* Jasmine, Karma, Istanbul and Protractor
+* Travis CI, Codacy, Coveralls and Sauce Labs
