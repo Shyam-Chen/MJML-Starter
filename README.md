@@ -23,6 +23,6 @@
 * Bash, Atom, Git and NPM
 * Jade, Stylus and TypeScript
 * Gulp, PostCSS, SystemJS, Typings and BrowserSync
-* Jadelint, Stylint and TSLint
+* Jadelint, Stylint, TSLint and Codelyzer
 * Jasmine, Karma, Istanbul and Protractor
 * Travis CI, Codacy, Coveralls and Sauce Labs
