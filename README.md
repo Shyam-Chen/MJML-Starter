@@ -9,7 +9,7 @@
 
 ***
 
-### Angular Applications
+### Angular 1 Applications
 * Angular, Material and Firebase
 * Bash, Atom, Git and NPM
 * Jade, Stylus and CoffeeScript
