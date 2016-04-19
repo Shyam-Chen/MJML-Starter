@@ -18,7 +18,7 @@
 * Jasmine, Karma, Protractor and Travis CI
 
 ### Angular 2 Applications
-* Angular 2, Material 2 and Firebase 2
+* Angular, Material and Firebase
 * Bash, Atom, Git and NPM
 * Jade, Stylus and TypeScript
 * Gulp, PostCSS, SystemJS, Typings and BrowserSync
