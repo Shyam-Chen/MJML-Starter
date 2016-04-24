@@ -6,7 +6,7 @@
 * JavaScript
   * Core
   * Client-side
-  * Server -side
+  * Server-side
 
 ***
 
