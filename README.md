@@ -8,7 +8,7 @@
 ***
 
 ### Angular 1 Applications
-* Angular, Material, Docker and Firebase
+* Angular, Material and Firebase
 * Bash, Atom, Git and NPM
 * Jade, Stylus and CoffeeScript
 * Gulp, PostCSS, Browserify and BrowserSync
@@ -16,7 +16,7 @@
 * Jasmine, Karma, Protractor and Travis CI
 
 ### Angular 2 Applications
-* Angular, Material, Docker and Firebase
+* Angular, Material and Firebase
 * Bash, Atom, Git and NPM
 * Jade, Stylus and TypeScript
 * Gulp, PostCSS, SystemJS, Typings, HotLoader and LiveReload
