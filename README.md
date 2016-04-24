@@ -1,16 +1,14 @@
 # Programming the Web
 
 ### Web Technologies
-* HyperText Markup Language
-* Cascading Style Sheets
-* European Computer Manufacturers Association Script
-* Web Application Programming Interface
-* Node Application Programming Interface
+* ECMAScript
+* HTML5
+* Node.js
 
 ***
 
 ### Angular 1 Applications
-* Angular, Material and Firebase
+* Angular, Material, Docker and Firebase
 * Bash, Atom, Git and NPM
 * Jade, Stylus and CoffeeScript
 * Gulp, PostCSS, Browserify and BrowserSync
@@ -18,7 +16,7 @@
 * Jasmine, Karma, Protractor and Travis CI
 
 ### Angular 2 Applications
-* Angular, Material and Firebase
+* Angular, Material, Docker and Firebase
 * Bash, Atom, Git and NPM
 * Jade, Stylus and TypeScript
 * Gulp, PostCSS, SystemJS, Typings, HotLoader and LiveReload
