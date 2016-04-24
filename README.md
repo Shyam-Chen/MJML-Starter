@@ -1,7 +1,12 @@
 # Programming the Web
 
 ### Web Technologies
-HTML / CSS / JavaScript
+* HTML
+* CSS
+* JavaScript
+  * Core
+  * Client-side
+  * Server -side
 
 ***
 
