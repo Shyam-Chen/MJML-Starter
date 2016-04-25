@@ -19,6 +19,6 @@
 * Angular, Material and Firebase
 * Bash, Atom, Git and NPM
 * Jade, Stylus and TypeScript
-* Gulp, PostCSS, SystemJS, Typings, HotLoader and LiveReload
+* Gulp, PostCSS, SystemJS, Typings, HotLoader and BrowserSync
 * Jadelint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis CI
