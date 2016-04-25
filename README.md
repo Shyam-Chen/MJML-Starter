@@ -1,6 +1,9 @@
 # Programming the Web
 
 ### Web Technologies
+* ECMAScript
+* HTML5
+* Node.js
 
 ***
 
