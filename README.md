@@ -10,15 +10,15 @@
 ### Angular 1 Applications
 * Angular, Material and Firebase
 * Bash, Atom, Git and NPM
-* Jade, Stylus and CoffeeScript
+* Pug, Stylus and CoffeeScript
 * Gulp, PostCSS, Browserify and BrowserSync
-* Jadelint, Stylint and CoffeeLint
+* Puglint, Stylint and CoffeeLint
 * Jasmine, Karma, Protractor and Travis CI
 
 ### Angular 2 Applications
 * Angular, Material and Firebase
 * Bash, Atom, Git and NPM
-* Jade, Stylus and TypeScript
+* Pug, Stylus and TypeScript
 * Gulp, PostCSS, SystemJS, Typings, HotLoader and BrowserSync
-* Jadelint, Stylint and TSLint
+* Puglint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis CI
