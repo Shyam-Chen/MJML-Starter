@@ -12,7 +12,7 @@
 * Bash, Atom, Git and NPM
 * Pug, Stylus and CoffeeScript
 * Gulp, PostCSS, Browserify and BrowserSync
-* Puglint, Stylint and CoffeeLint
+* PugLint, Stylint and CoffeeLint
 * Jasmine, Karma, Protractor and Travis CI
 
 ### Angular 2 Applications
@@ -20,5 +20,5 @@
 * Bash, Atom, Git and NPM
 * Pug, Stylus and TypeScript
 * Gulp, PostCSS, SystemJS, Typings, HotLoader and BrowserSync
-* Puglint, Stylint and TSLint
+* PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis CI
