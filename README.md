@@ -5,7 +5,7 @@
 * HTML5
 * Node.js
 
-**Become a Web Developer**
+:sparkles: **Become a Web Developer** :sparkles:
 
 ***
 
@@ -25,4 +25,4 @@
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis CI
 
-**Become an Angular Expert**
+:sparkles: **Become an Angular Expert** :sparkles:
