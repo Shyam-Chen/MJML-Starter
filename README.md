@@ -5,6 +5,8 @@
 * HTML5
 * Node.js
 
+Become a Web Developer
+
 ***
 
 ### Angular 1 Applications
@@ -22,3 +24,5 @@
 * Gulp, PostCSS, SystemJS, Typings, HotLoader and BrowserSync
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis CI
+
+Become an Angular Expert
