@@ -10,7 +10,7 @@
 ***
 
 ### Angular Applications
-* Angular, (Material/NativeScript) and Firebase
+* Angular, Material and Firebase
 * Bash, Atom, Git and NPM
 * Pug, Stylus and TypeScript
 * Gulp, PostCSS, SystemJS, Typings, HotLoader and BrowserSync
