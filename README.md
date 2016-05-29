@@ -7,8 +7,6 @@
 
 :sparkles: **Become a Web Developer** :sparkles:
 
-***
-
 ### Angular Applications
 * Angular, Material and Firebase
 * Bash, Atom, Git and NPM
