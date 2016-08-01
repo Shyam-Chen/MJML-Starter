@@ -1,13 +1,23 @@
 # Programming the Web
 
-### Web Technologies
+## Web Technologies
 * ECMAScript
 * HTML5
 * Node.js
 
 :sparkles: **Become a Web Developer** :sparkles:
 
-### Angular Applications
+## Angular Applications
+
+### NG1
+* Angular, Material and Firebase
+* Bash, Atom, Git and NPM
+* Pug, Stylus and CoffeeScript
+* Gulp, PostCSS, Browserify and BrowserSync  
+* PugLint, Stylint and CoffeeLint
+* Jasmine, Karma, Protractor and Travis CI
+
+### NG2
 * Angular, Material and Firebase
 * Bash, Atom, Git and NPM
 * Pug, Stylus and TypeScript
