@@ -11,7 +11,7 @@
 * Angular, Material and Firebase
 * Bash, Atom, Git and NPM
 * Pug, Stylus and TypeScript
-* Gulp, PostCSS, SystemJS, Types, HotLoader and BrowserSync
+* Gulp, PostCSS, SystemJS, Typings, HotLoader and BrowserSync
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis CI
 
