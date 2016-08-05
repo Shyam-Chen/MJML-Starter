@@ -17,10 +17,10 @@
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis CI
 
-### +Mobile
+#### +Mobile
 * Ionic and Cordova
 
-### +Server
+#### +Server
 * Universal and Express
 
 :sparkles: **Angular Expert** :sparkles:
