@@ -5,7 +5,7 @@
 * HTML5
 * Node.js
 
-:sparkles: **Web Developer** :sparkles:
+:sparkles: **Become a Web Developer** :sparkles:
 
 ## Angular Applications
 
@@ -23,4 +23,4 @@
 #### +Server
 * Universal and Express
 
-:sparkles: **Angular Expert** :sparkles:
+:sparkles: **Become an Angular Expert** :sparkles:
