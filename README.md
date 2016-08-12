@@ -15,7 +15,7 @@
 * Pug, Stylus and TypeScript
 * Gulp, PostCSS, SystemJS, Typings, HotLoader and BrowserSync
 * PugLint, Stylint and TSLint
-* Codelyzer, Jasmine, Karma, Protractor, Travis and Docker
+* Codelyzer, Jasmine, Karma, Protractor, Docker and Travis
 
 #### +Mobile
 * Ionic and Cordova
