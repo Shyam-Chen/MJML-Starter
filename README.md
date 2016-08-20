@@ -11,7 +11,7 @@
 
 ### Web
 * Angular, Material and Firebase
-* Bash, Atom, Git, NPM and Docker
+* Ubuntu, Atom, Git, NPM and Docker
 * Pug, Stylus and TypeScript
 * Gulp, PostCSS, SystemJS, Typings, HotLoader and BrowserSync
 * PugLint, Stylint and TSLint
