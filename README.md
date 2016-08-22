@@ -13,7 +13,7 @@
 * Angular, Material and Firebase
 * Ubuntu, Atom, Git, NPM and Docker
 * Pug, Stylus and TypeScript
-* Gulp, Webpack, PostCSS, Typings, HMR and BrowserSync
+* Gulp, Webpack, PostStylus, Typings, HMR and BrowserSync
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis
 
