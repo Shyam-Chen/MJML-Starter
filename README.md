@@ -13,7 +13,7 @@
 * Angular, Material and Firebase
 * Ubuntu, Atom, Git, NPM and Docker
 * Pug, Stylus and TypeScript
-* Gulp, PostCSS, SystemJS, Typings, HotLoader and BrowserSync
+* Gulp, Webpack, PostCSS, Typings, HMR and BrowserSync
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis
 
@@ -21,6 +21,9 @@
 * Ionic and Cordova
 
 #### +Server
-* Universal and Express
+* Express and Universal
+
+### +Database
+* Mongo and Mongoose
 
 :sparkles: **Become an Angular Expert** :sparkles:
