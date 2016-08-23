@@ -26,4 +26,14 @@
 #### +Database
 * Mongo and Mongoose
 
+#### +Cloud
+* Heroku and MongoLab
+* Google Compute Engine
+
+#### +Security
+* ...
+
+#### +Agile
+* ...
+
 :sparkles: **Become an Angular Expert** :sparkles:
