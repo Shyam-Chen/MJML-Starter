@@ -27,7 +27,7 @@
 * Mongo and Mongoose
 
 #### +Cloud
-* Heroku and MongoLab
+* Heroku and mLab
 * Google Compute Engine
 
 #### +Security
