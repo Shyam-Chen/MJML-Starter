@@ -31,9 +31,13 @@
 * Google Compute Engine
 
 #### +Security
-* XSS and CSRF
+* XSS
+* XSRF
 
 #### +Agile
-* Scrum, XP, Lean and Kanban
+* Scrum
+* XP
+* Lean
+* Kanban
 
 :sparkles: **Become an Angular Expert** :sparkles:
