@@ -17,9 +17,6 @@
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis
 
-#### +Mobile
-* Ionic and Cordova
-
 #### +Server
 * Express and Universal
 
