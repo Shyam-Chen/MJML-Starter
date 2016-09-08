@@ -28,12 +28,17 @@
 * Google Compute Engine
 
 #### +Security
-* XSS
-* XSRF
+* Limiting the request size
+* Monitoring the event loop's responsiveness
+* Cross-site Request Forgery
+* Input validation
+* Cross-site Scripting
+* Denial of Service
+* Security-related HTTP headers
 
 #### +Agile
 * Scrum
-* XP
+* Extreme programming
 * Lean
 * Kanban
 
