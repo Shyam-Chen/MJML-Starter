@@ -19,12 +19,14 @@
 
 #### +Server
 * Express and Universal
+* Nodemon and PM2
 
 #### +Database
 * Mongo and Mongoose
+* Robomongo and MLab
 
 #### +Cloud
-* Heroku and MLab
+* Heroku
 * Google Compute Engine
 
 #### +Security
