@@ -17,16 +17,13 @@
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis
 
-#### +Server
+#### +Backend
 * Express and Universal
+* Mongo and Mongoose
 * Mocha and Chai
 * Nodemon and PM2
-
-#### +Database
-* Mongo and Mongoose
 * Robomongo and MLab
-
-#### +Cloud
+* Nginx and Varnish
 * Heroku
 * Google Compute Engine
 
