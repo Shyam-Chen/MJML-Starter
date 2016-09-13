@@ -27,19 +27,4 @@
 * Heroku
 * Google Compute Engine
 
-#### +Security
-* Limiting the request size
-* Monitoring the event loop's responsiveness
-* Cross-site Request Forgery
-* Input validation
-* Cross-site Scripting
-* Denial of Service
-* Security-related HTTP headers
-
-#### +Agile
-* Scrum
-* Extreme programming
-* Lean
-* Kanban
-
 :sparkles: **Become an Angular Expert** :sparkles:
