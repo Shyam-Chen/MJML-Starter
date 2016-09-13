@@ -23,6 +23,7 @@
 * Mocha and Chai
 * Nodemon and PM2
 * Robomongo and MLab
+* Winston and Papertrail
 * Nginx and Varnish
 * Heroku
 * Google Compute Engine
