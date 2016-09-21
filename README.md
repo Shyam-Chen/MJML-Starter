@@ -9,7 +9,15 @@
 
 ## Angular Applications
 
-### Web
+### ng1-app
+* Angular, Material and Firebase
+* Ubuntu, Atom, Git, NPM and Docker
+* Pug, Stylus and CoffeeScript
+* Gulp, PostStylus, Coffeeify and BrowserSync  
+* PugLint, Stylint and CoffeeLint
+* Jasmine, Karma, Protractor and Travis
+
+### ng2-app
 * Angular, Material and Firebase
 * Ubuntu, Atom, Git, NPM and Docker
 * Pug, Stylus and TypeScript
@@ -18,14 +26,13 @@
 * Codelyzer, Jasmine, Karma, Protractor and Travis
 
 #### +Backend
-* Express and Universal
-* Mongo and Mongoose
+* Express and Mongoose
+* Mongo and Robomongo
 * Mocha and Chai
 * Nodemon and PM2
-* Robomongo and MLab
 * Winston and Papertrail
 * Nginx and Varnish
-* Heroku
+* Heroku and MLab
 * Google Compute Engine
 
 :sparkles: **Become an Angular Expert** :sparkles:
