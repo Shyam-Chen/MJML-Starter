@@ -25,9 +25,9 @@
 
 #### +Backend
 * Express and Mongoose
-* Mongo and Robomongo
 * Mocha and Chai
 * Nodemon and PM2
+* Mongo and Robomongo
 * Winston and Papertrail
 * Nginx and Varnish
 * Heroku and MLab
