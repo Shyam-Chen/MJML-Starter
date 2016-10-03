@@ -4,6 +4,7 @@
 * ECMAScript
 * HTML5
 * Node.js
+* MongoDB
 
 ### Agile Methodologies
 * Scrum
@@ -26,9 +27,8 @@
 #### +Backend
 * Express and Mongoose
 * Mocha and Chai
-* Nodemon and PM2
-* Mongo and Robomongo
-* Nginx and Varnish
+* Nodemon and Robomongo
+* PM2, Nginx and Varnish 
 * Heroku and MLab
 * Google Compute Engine
 
