@@ -18,9 +18,9 @@
 
 ### Angular Applications
 * Angular, Material and Firebase
-* Ubuntu, Atom, Git, NPM and Docker
+* Ubuntu, Atom, Git, Yarn and Docker
 * Pug, Stylus and TypeScript
-* Gulp, Webpack, PostStylus, Types and BrowserSync
+* Gulp, PostStylus, Rollup, Types and BrowserSync
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis
 
