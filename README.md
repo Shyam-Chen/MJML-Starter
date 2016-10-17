@@ -20,7 +20,7 @@
 * Angular, Material and Firebase
 * Ubuntu, Atom, Git, Yarn and Docker
 * Pug, Stylus and TypeScript
-* Gulp, PostStylus, Rollup, Types and BrowserSync
+* Gulp, Rollup, PostStylus, Types and BrowserSync
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis
 
