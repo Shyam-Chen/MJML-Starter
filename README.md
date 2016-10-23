@@ -19,17 +19,15 @@
 #### Front-end
 * Angular, Material and Firebase
 * Ubuntu, Atom, Git, Yarn and Docker
-* Pug, Stylus and TypeScript
+* Pug, Stylus, TypeScript, PugLint, Stylint and TSLint
 * Gulp, Rollup, PostStylus, Types and BrowserSync
-* PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis
 
 #### Back-end
 * Express, Mongoose, Material, Heroku and MLab
 * Ubuntu, Atom, Git, Yarn and Docker
-* Pug, Stylus and TypeScript
+* Pug, Stylus, TypeScript, PugLint, Stylint and TSLint
 * Gulp, Rollup, PostStylus, Types and BrowserSync
-* PugLint, Stylint and TSLint
 * Mocha, Chai, Travis, Nodemon, PM2, Nginx and Varnish
 
 :sparkles: **Become a Web Developer** :sparkles:
