@@ -28,8 +28,8 @@
 * Express, Mongoose, Material, Heroku and MLab
 * Ubuntu, Atom, Git, Yarn and Docker
 * Pug, Stylus and TypeScript
-* Gulp, Rollup, PostStylus, Types, Nodemon, Robomongo and BrowserSync
+* Gulp, Rollup, PostStylus, Types and BrowserSync
 * PugLint, Stylint and TSLint
-* Mocha, Chai, Travis, PM2, Nginx and Varnish
+* Mocha, Chai, Travis, Nodemon, PM2, Nginx and Varnish
 
 :sparkles: **Become a Web Developer** :sparkles:
