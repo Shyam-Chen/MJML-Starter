@@ -12,11 +12,11 @@
 * Lean
 * Kanban
 
-:sparkles: **Become a Web Developer** :sparkles:
-
 ***
 
-### Angular Applications
+### Modern Web
+
+#### Front-end
 * Angular, Material and Firebase
 * Ubuntu, Atom, Git, Yarn and Docker
 * Pug, Stylus and TypeScript
@@ -24,12 +24,12 @@
 * PugLint, Stylint and TSLint
 * Codelyzer, Jasmine, Karma, Protractor and Travis
 
-#### +Backend
-* Express and Mongoose
-* Mocha and Chai
-* Nodemon and Robomongo
-* PM2, Nginx and Varnish 
-* Heroku and MLab
-* Google Compute Engine
+#### Back-end
+* Express, Mongoose, Material, Heroku and MLab
+* Ubuntu, Atom, Git, Yarn and Docker
+* Pug, Stylus and TypeScript
+* Gulp, Rollup, PostStylus, Types, Nodemon, Robomongo and BrowserSync
+* PugLint, Stylint and TSLint
+* Mocha, Chai, Travis, PM2, Nginx and Varnish
 
-:sparkles: **Become an Angular Expert** :sparkles:
+:sparkles: **Become a Web Developer** :sparkles:
