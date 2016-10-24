@@ -14,16 +14,16 @@
 
 ***
 
-### Modern Web
+## Modern Web
 
-#### Front-end
+### Front End
 * Angular, Material and Firebase
 * Ubuntu, Atom, Git, Yarn and Docker
 * Pug, Stylus, TypeScript, PugLint, Stylint and TSLint
 * Gulp, Rollup, PostStylus, Types and BrowserSync
 * Codelyzer, Jasmine, Karma, Protractor and Travis
 
-#### Back-end
+### Back End
 * Express, Mongoose, Material, Heroku and MLab
 * Ubuntu, Atom, Git, Yarn and Docker
 * Pug, Stylus, TypeScript, PugLint, Stylint and TSLint
