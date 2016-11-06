@@ -22,11 +22,11 @@
 * Gulp, Rollup, PostStylus, Types, and BrowserSync
 * Codelyzer, Jasmine, Karma, Protractor, and Travis
 
-### Vanilla
-* Vanilla, Material, and Firebase
+### Express
+* Express, Mongoose, Material, Heroku, and MLab
 * Linux, Atom, Git, Yarn, and Docker
-* HTML, CSS, JavaScript, HTMLHint, StyleLint, and ESLint
-* Gulp, Rollup, PostCSS, Babel, and BrowserSync
-* Jasmine, Karma, Protractor, and Travis
+* Pug, Stylus, TypeScript, PugLint, Stylint, and TSLint
+* Gulp, Rollup, PostStylus, Types, Nodemon, and BrowserSync
+* Mocha, Chai, Travis, PM2, Nginx, and Varnish
 
 :sparkles: **Become a Web Developer** :sparkles:
