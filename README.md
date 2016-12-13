@@ -10,5 +10,3 @@
 * Extreme Programming
 * Lean
 * Kanban
-
-:sparkles: **Become a Web Developer** :sparkles:
