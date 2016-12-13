@@ -4,7 +4,6 @@
 * ECMAScript
 * HTML5
 * Node.js
-* Cordova
 
 ### Agile Methodologies
 * Scrum
