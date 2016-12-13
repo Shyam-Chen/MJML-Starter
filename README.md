@@ -7,6 +7,6 @@
 
 ### Agile Methodologies
 * Scrum
-* Extreme Programming
+* XP
 * Lean
 * Kanban
