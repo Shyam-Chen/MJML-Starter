@@ -1,9 +1,9 @@
 # Programming the Web
 
 ### Web Technologies
-* ECMAScript
-* HTML5
-* Node.js
+* HTML
+* CSS
+* JavaScript
 
 ### Agile Methodologies
 * Scrum
