@@ -1,13 +1,12 @@
 # Web, Mobile, and Backend
 
-### Web Technologies
-* HTML
-* CSS
-* JavaScript
+### Technologies
+* ECMAScript
+* HTML5
 * NativeScript
 * Node.js
 
-### Agile Methodologies
+### Methodologies
 * Scrum
 * XP
 * Lean
