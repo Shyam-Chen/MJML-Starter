@@ -3,7 +3,7 @@
 ### Technologies
 * ECMAScript
 * HTML5
-* NativeScript
+* Cordova
 * Node.js
 
 ### Methodologies
