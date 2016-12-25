@@ -1,9 +1,9 @@
-# Web, Mobile, and Backend
+# Software Development
 
 ### Technologies
-* ECMAScript
 * HTML5
 * Cordova
+* Electron
 * Node.js
 
 ### Methodologies
