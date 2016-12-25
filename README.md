@@ -1,12 +1,12 @@
 # Software Development
 
-### Technologies
+### Key Technologies
 * HTML5
 * Cordova
 * Electron
 * Node.js
 
-### Methodologies
+### Agile Methodologies
 * Scrum
 * XP
 * Lean
