@@ -1,6 +1,6 @@
 # Software Development
 
-### Core - ECMAScript
+### ECMAScript
 
 #### Key Technologies
 * HTML5
