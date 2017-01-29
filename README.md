@@ -3,9 +3,8 @@
 :icecream: JavaScript: Up and Running
 
 ### Key Technologies
+* ECMAScript
 * HTML5
-* Cordova
-* Electron
 * Node.js
 
 ### Agile Methodologies
@@ -14,4 +13,4 @@
 * Lean
 * Kanban
 
-:sparkles: Become a Software Engineer :sparkles:
+:sparkles: Software Engineer, Full Stack :sparkles:
