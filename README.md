@@ -6,6 +6,7 @@
 * ECMAScript
 * HTML5
 * Node.js
+* Angular
 
 ### Agile Methodologies
 * Scrum
