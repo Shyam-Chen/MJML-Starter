@@ -1,7 +1,5 @@
 # Software Development
 
-:icecream: JavaScript: Up and Running
-
 ### Key Technologies
 * ECMAScript
 * HTML5
