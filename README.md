@@ -4,11 +4,11 @@
 * ECMAScript
 * HTML5
 * Node.js
-* Angular
+* Google Cloud Platform
 
 ### Agile Methodologies
 * Scrum
-* XP
+* Extreme Programming
 * Lean
 * Kanban
 
