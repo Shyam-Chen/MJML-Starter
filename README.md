@@ -4,7 +4,7 @@
 * ECMAScript
 * HTML5
 * Node.js
-* Google Cloud Platform
+* Cloud Computing
 
 ### Agile Methodologies
 * Scrum
