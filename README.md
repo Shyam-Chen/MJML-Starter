@@ -4,11 +4,11 @@
 * ECMAScript
 * HTML5
 * Node.js
-* Cloud Computing
+* Docker
 
 ### Agile Methodologies
 * Scrum
-* Extreme Programming
+* XP
 * Lean
 * Kanban
 
