@@ -5,7 +5,7 @@
 * ECMAScript
 * HTML5
 * Node.js
-* Docker
+* Linux
 
 ### Agile Methodologies
 
