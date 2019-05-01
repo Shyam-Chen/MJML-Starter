@@ -14,4 +14,11 @@
 * Lean
 * Kanban
 
+### Job Titles
+
+* Front-end Web Developer
+* Back-end Web Developer
+* Quality Assurance Web Tester
+* Web Site Reliability Operator
+
 :sparkles: Software Engineer, Full Stack :sparkles:
