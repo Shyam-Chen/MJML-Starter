@@ -1,0 +1,5 @@
+{% extends "Base.mjml" %}
+
+{% block content %}
+  {% include "HelloWorld.mjml" %}
+{% endblock %}

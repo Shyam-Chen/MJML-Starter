@@ -1,0 +1,5 @@
+'@import':
+  - AnotherHello.yaml
+
+STATIC:
+  helloWorld: Hello, World!

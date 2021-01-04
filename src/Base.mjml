@@ -48,7 +48,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-text color="#555" font-size="10px" align="center">
-          This email is sent by Trend Micro on behalf of Telstra
+          This email is ...
         </mj-text>
       </mj-column>
     </mj-section>

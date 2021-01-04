@@ -1,4 +1,3 @@
-
 const fs = require('fs');
 const path = require('path');
 const gulp = require('gulp');
@@ -49,7 +48,7 @@ function transpile(cb) {
             startMsoNegationConditionalTag: '<!--[if !mso]><!-- -->',
             endConditionalTag: '<!--<![endif]-->',
             startHideConditionalTag: '<!--[if mso | IE]>',
-            endHideConditionalTag: '<![endif]-->'
+            endHideConditionalTag: '<![endif]-->',
           },
           {
             env: new nunjucksEngine.Environment(
@@ -74,6 +73,58 @@ function transpile(cb) {
       .pipe(gulp.dest(path.join(__dirname, './dist/mjml')))
       .pipe(mjml(mjmlEngine, { minify: true }))
       .pipe(gulp.dest(path.join(__dirname, './dist/html')))
+
+      // Blade
+      .pipe(
+        pipeIf(
+          options.blade,
+          rename((path) => ({
+            dirname: path.dirname,
+            basename: path.basename,
+            extname: '.blade.php',
+          })),
+        ),
+      )
+      .pipe(pipeIf(options.blade, gulp.dest('./dist/blade')))
+
+      // StringTemplate
+      .pipe(
+        pipeIf(
+          options.st,
+          rename((path) => ({
+            dirname: path.dirname,
+            basename: path.basename,
+            extname: '.st',
+          })),
+        ),
+      )
+      .pipe(pipeIf(options.st, gulp.dest('./dist/st')))
+
+      // Razor
+      .pipe(
+        pipeIf(
+          options.razor,
+          rename((path) => ({
+            dirname: path.dirname,
+            basename: path.basename,
+            extname: '.cshtml',
+          })),
+        ),
+      )
+      .pipe(pipeIf(options.razor, gulp.dest('./dist/razor')))
+
+      // Embedded Ruby
+      .pipe(
+        pipeIf(
+          options.erb,
+          rename((path) => ({
+            dirname: path.dirname,
+            basename: path.basename,
+            extname: '.html.erb',
+          })),
+        ),
+      )
+      .pipe(pipeIf(options.erb, gulp.dest('./dist/erb')))
   );
 }
 
@@ -97,11 +148,8 @@ function serve(done) {
 
 function move(cb) {
   return gulp
-    .src(`./dist/blade/${options.project}/**/*`)
-    .pipe(
-      gulp.dest(path.join(__dirname, options.to)
-      ),
-    );
+    .src(`./dist/${options.tpl}/${options.project}/**/*`)
+    .pipe(gulp.dest(path.join(__dirname, options.to)));
 }
 
 exports.serve = gulp.parallel(gulp.series(transpile, serve), watch);
