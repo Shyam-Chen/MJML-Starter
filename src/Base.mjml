@@ -1,5 +1,7 @@
 <mjml>
   <mj-head>
+    <mj-title>{{ title }}</mj-title>
+
     <mj-style>
       .container {
         padding: 16px;
@@ -38,10 +40,6 @@
         text-decoration: none;
       }
     </mj-style>
-
-    <mj-title>
-        {{ title }}
-    </mj-title>
   </mj-head>
 
   <mj-body css-class="container" width="600px">

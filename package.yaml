@@ -1,6 +1,6 @@
 name: email-starter
 version: 1.0.0
-description: ''
+description: A boilerplate for building responsive HTML emails.
 scripts:
   serve: gulp serve
   build: gulp build
