@@ -1,5 +1,0 @@
-<mj-section padding="32px 0 0" background-color="#fff">
-  <mj-column>
-    <mj-text color="#555555" line-height="1.4">{{ anotherHello }}</mj-text>
-  </mj-column>
-</mj-section>

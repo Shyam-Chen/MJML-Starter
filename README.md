@@ -19,18 +19,16 @@ $ pnpm install
 
 2. Start a development server
 
+Transpiles: `posthtml` -> Data (`yaml`) + `nunjucks` -> `mjml` -> `html`
+
 ```sh
 $ pnpm serve
 ```
 
 3. Build templates
 
+Transpiles: `posthtml` -> `mjml` -> `html` (`nunjucks` ready)
+
 ```sh
 $ pnpm build
-```
-
-4. Move templates
-
-```sh
-$ pnpm move --tpl html --project group --to ../emails
 ```

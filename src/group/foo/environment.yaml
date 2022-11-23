@@ -1,5 +1,0 @@
-'@import':
-  - HelloWorld.yaml
-
-STATIC:
-  msg: Hello, World!
