@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "serve": "rimraf dist && gulp serve --dev",
-    "build": "rimraf dist && gulp build --prod"
+    "build": "rimraf dist && gulp build --prod",
+    "move": "gulp move"
   },
   "devDependencies": {
     "browser-sync": "^2.27.10",

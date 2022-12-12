@@ -96,7 +96,7 @@ function serve(done) {
 
 function move(cb) {
   return gulp
-    .src(`./dist/${options.tpl}/${options.project}/**/*`)
+    .src(`./dist/html/**/*`)
     .pipe(gulp.dest(path.join(__dirname, options.to)));
 }
 

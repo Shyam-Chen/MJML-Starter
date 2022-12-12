@@ -32,3 +32,9 @@ Transpiles: `posthtml` -> `mjml` -> `html` (`nunjucks` ready)
 ```sh
 $ pnpm build
 ```
+
+4. Move templates
+
+```sh
+$ pnpm move --to=../path/to/src/templates
+```
