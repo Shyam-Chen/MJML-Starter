@@ -1,4 +1,4 @@
-<extends src="./layouts/Default.mjml">
+<extends src="layouts/Default.mjml">
   <block name="content">
     <mj-section>
       <mj-column>
@@ -8,6 +8,6 @@
       </mj-column>
     </mj-section>
 
-    <include src="./components/Foo.mjml"></include>
+    <include src="components/Foo.mjml"></include>
   </block>
 </extends>
