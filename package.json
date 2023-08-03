@@ -20,7 +20,7 @@
     "js-yaml-import": "^1.0.3",
     "minimist": "^1.2.7",
     "mjml": "^4.13.0",
-    "nunjucks": "^3.2.3",
+    "nunjucks": "^3.2.4",
     "posthtml": "^0.16.6",
     "posthtml-extend": "^0.6.3",
     "posthtml-include": "^1.7.4",
