@@ -95,9 +95,7 @@ function serve(done) {
 }
 
 function move(cb) {
-  return gulp
-    .src(`./dist/html/**/*`)
-    .pipe(gulp.dest(path.join(__dirname, options.to)));
+  return gulp.src(`./dist/html/**/*`).pipe(gulp.dest(path.join(__dirname, options.to)));
 }
 
 exports.serve = gulp.parallel(gulp.series(transpile, serve), watch);

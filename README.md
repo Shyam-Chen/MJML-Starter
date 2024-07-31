@@ -38,3 +38,11 @@ $ pnpm build
 ```sh
 $ pnpm move --to=../path/to/src/templates
 ```
+
+## Features
+
+- [Gulp](https://github.com/gulpjs/gulp) - Build Tool
+- [MJML](https://github.com/mjmlio/mjml) - Email Framework
+- [PostHTML](https://github.com/posthtml/posthtml) - HTML Transformer
+- [Nunjucks](https://github.com/mozilla/nunjucks) - Templating Engine
+- [YAML](https://github.com/nodeca/js-yaml) - Mock Data
